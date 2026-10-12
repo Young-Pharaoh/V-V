@@ -1,0 +1,76 @@
+Necesidad > Requisitos > Producto (con calidad) {paso las pruebas} > Evidencia
+
+
+Objetivo de la clase:
+	Distinguir verificacion y validacion, relacionarlas con el ciclo de vida y justificar decisiones mediante evidencia.
+
+1. Distinguir >> 2. Relacionar >> 3. Justificar
+
+*Conformidad contra requisitos o criterios definidos
+*Adecuacion frete a necesidad y uso previsto
+*Evidencia trazable para sostener conclusiones
+
+Conformidad: Verificacion
+Adecuacion: Validacion
+?cual es la diferencia entre un requisito conforme y adecuado?
+
+Resultados observables:
+	Explicar que significa verificar software
+	Explicar que significa validar software
+	Diferenciar entre las dos
+	Argumentar con evidencia
+
+
+Conceptos base:
+	conceptos previo
+	*calidad de software: Permite discutir si un producto es aceptable mas alla de que compile o ejecute.
+	*Requisito: Funciona como fuente de referencia para muchas actividades de verificacion.
+	*Producto de trabajo: Incluye documentos, modelos, codigo, casos de prueba, reportes y configuraciones.
+	*Evidencia: Permite justificar conclusiones sin basarse solo en opinion.
+
+
+Verificacion:
+	Estamos construyendo correctamente el procucto especificado?
+	.Requisitos
+	.Especificaciones
+	.Disenio
+	.Criterios definidos
+
+Validacion
+	Estamos construyendo el proeducto adecuado para la necesidad real?
+	.Usuario
+	.Uso previsto
+	.Contexto
+	.Objetivos reales
+
+Iso 12207 - IEEE 1012
+
+
+**VERIFICACION**
+Confirmacion mediante la aportacion de evidencia objetiva de que se han cumplido los requisitos especificados.
+
+**VALIDACION**
+Confirmacion medainte la aportacion de evidencia objetiva de que se han cumplido los requisitos para una utilizacion o aplicacion especifica prevista.
+
+
+Verificacion: conformidad con criterios definidos
+	Determinar con evidencia si un producto o producto de trabajo satisface requisitos, especificaciones o condiciones definidas.
+	Requisito > Disenio > Codigo > Prueba
+		.Revision de requisitos o disenio
+		.Pruebas unitarias contra una especificaion
+		.Cobertura y trazabilidad
+		.Analisis estatico y cumplimiento de reglas
+
+Validacion: adecuacion para la necesidad real
+	Determinar con evidencia si el producto satisface necesidades y uso previsto en un contexto representativo.
+	Necesidad (captura de datos) > usuario (validacion de limites, equivalente a usuario) > confirmacion de contexto > decision
+
+
+
+---------------------------------------------------------------------------------------
+QA(qualiy assurance): asegurar proceso
+QC(quality control): evaluar producto
+Testing: obtener informacion
+V&V (verificacion y validacion): evidenciar conformidad y adecuacion
+
+**Testing no es sinonimo de V&V; es una disciplina central para producir evidencia.

@@ -1,0 +1,20 @@
+
+-Error: es el error humano en la falta de entendimiento de los requisitos.
+-Defecto: es causado por un error, el defecto es algo hace que la aplicacion no funciona que no debe pasar, no hay gritos en rojo, el programa corre.
+-Fallo: es causado por un defecto, es al momento de usar la aplicacion pero no da resultados no deseados.
+
+
+?como deberia trabajar sistematicamente un tester?
+
+.1 - comprender que debe probarse;
+.2 - identificar riesgos;
+.3 - establecer condiciones de prueba;
+.4 - disenar casos;
+.5 - preparar datos;
+.6 - preparar entorno;
+.7 - ejecutar;
+.8 - comparar resultado esperado y obtenido;
+.9 - evaluar resultados;
+.10 - registrar anomalias;
+.11 - informar;
+.12 - cerrar;
