@@ -18,3 +18,18 @@
 .10 - registrar anomalias;
 .11 - informar;
 .12 - cerrar;
+
+
+Niveles de prueba:
+*Sistema experimental comisariato
+Sistema
+-ClaculadoraDescuento
+-ServicioPedidos
+-RepositorioClientes
+-API
+-interfaz / aplicacion
+
+Estacion 1 - Componentes: probar componentes unitarios
+Estacion 2 - integracion: La clase individual puede funcionar correctamente. Pero la integracion podria causar problemas
+Estacion 3 - sistema: que los cambios nuevos no afectan otros componentes existentes
+Estacion 4 - aceptacion del cliente
